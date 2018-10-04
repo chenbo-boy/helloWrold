@@ -1,2 +1,2 @@
 # helloWrold
-首次学习使用github
+首次使用github
